@@ -1,6 +1,8 @@
-#include<iostream>
+ #include<iostream>
 
 using namespace std;
 int main (){
-    cout<<"Sayid Akhon";
+    cout<<"Sayid \nAkhon\n";
+    cout<<"Ahmedabad ramra" <<endl;
+    cout<<"Sayid"<<endl << "Akon" <<endl <<"010446594564";
 }
